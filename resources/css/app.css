@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-eco-green: #1f8b4c; /* Hijau gelap logo */
+  --color-eco-leaf: #7ac142;  /* Hijau muda logo */
+  --color-eco-blue: #1a8fc3;  /* Biru bumi logo */
+  --color-eco-bg: #f8fafc;    /* Background dashboard */
+}
